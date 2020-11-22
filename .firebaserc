@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tinder-clone-e87c7",
+    "tinder-clone": "tinder-clone-e87c7",
+    "staging": "tinder-clone-e87c7"
+  }
+}
